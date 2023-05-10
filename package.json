@@ -1,0 +1,23 @@
+{
+  "name": "jaydontracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jaydonscraper-api.py",
+  "scripts": {
+    "start": "python3 jaydonscraper-api.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyrofx/jaydonscraper-prod"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyrofx/jaydonscraper-prod/issues"
+  },
+  "homepage": "https://github.com/kyrofx/jaydonscraper-prod#readme",
+  "dependencies": {
+    "flask": "^2.3.2"
+    "scrapy": "^2.9.0"
+  }
+}
