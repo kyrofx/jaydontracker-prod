@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/kyrofx/jaydonscraper-prod#readme",
   "dependencies": {
-    "flask": "^2.3.2"
-    "scrapy": "^2.9.0"
+    "flask": "^2.3.2",
+    "scrapy": "^2.9.0",
   }
 }
